@@ -6,3 +6,6 @@ https://asciinema.org/a/m0dAR3InBXEFt52InkisR3Rga
 
 Запись работы игры калькулятор в asciinema
 https://asciinema.org/a/eT8qaYH630tJXVM4CwMJVTUSX
+
+Запись работы игры НОД в asciinema
+https://asciinema.org/a/legH02LehyD8SosVPeSfF2BI9
