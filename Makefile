@@ -11,7 +11,7 @@ publish:
 	poetry publish --dry-run
 
 package-install:
-	poetry -m pip install dist/*.whl
+	python3 -m pip install dist/*.whl
 
 brain-games:
 	poetry run brain-games
