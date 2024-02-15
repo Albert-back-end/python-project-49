@@ -4,7 +4,7 @@ from random import randint
 from prompt import string
 
 
-def logic_of_game():
+def logic_of_brain_even():
     welcome_user()
     print('Answer "yes" if the number is even, otherwise answer "no".')
     count = 0
