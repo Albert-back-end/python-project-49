@@ -12,3 +12,6 @@ https://asciinema.org/a/legH02LehyD8SosVPeSfF2BI9
 
 Запись игры арифмитическая прогрессия в asciinema
 https://asciinema.org/a/Sy3hQt9IHuipNvxKi8gDeWrAW
+
+Запись игры простое число в asciinema
+https://asciinema.org/a/MJLOmwv8MKSwcDlaZaP87rxNo
