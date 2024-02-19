@@ -9,3 +9,6 @@ https://asciinema.org/a/eT8qaYH630tJXVM4CwMJVTUSX
 
 Запись работы игры НОД в asciinema
 https://asciinema.org/a/legH02LehyD8SosVPeSfF2BI9
+
+Запись игры арифмитическая прогрессия в asciinema
+https://asciinema.org/a/Sy3hQt9IHuipNvxKi8gDeWrAW
