@@ -1,6 +1,8 @@
 from prompt import string
 
 input_name = None
+
+
 def welcome_user():
     global input_name
     print("Welcome to the Brain Games!")

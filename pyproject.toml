@@ -1,11 +1,16 @@
 [tool.poetry]
 name = "brain_games"
 version = "0.1.0"
-description = ""
+description = "Games for brain development written in Python"
 authors = ["Albert-back-end <153019657+Albert-back-end@users.noreply.github.com>"]
 readme = "README.md"
 packages = [
   { include = "brain_games" },
+]
+repository = "https://github.com/Albert-back-end/python-project-49"
+classifiers = [
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules"
 ]
 
 [tool.poetry.dependencies]
@@ -28,5 +33,3 @@ brain-calc = "brain_games.scripts.brain_calc:main"
 brain-gsd = "brain_games.scripts.brain_gsd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
 brain-prime = "brain_games.scripts.brain_prime:main"
-
-
